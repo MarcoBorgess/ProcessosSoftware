@@ -10,4 +10,5 @@ Plataforma para venda de periféricos e hardware gamer usados. De gamers, para g
  - [Slides!](https://docs.google.com/presentation/d/1_c2-Gh6eMtELK7GvydqTlZA5bf4xrXJ6oltHwmDucus/edit?usp=sharing)
  
  Protótipo:
- <iframe src='https://gfycat.com/ifr/SpectacularSpitefulElectriceel' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
+
+![UsadosGamer](https://user-images.githubusercontent.com/65771228/145478975-2e90c980-7805-452e-a2da-7ab9820b573d.gif)
